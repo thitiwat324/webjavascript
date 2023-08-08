@@ -1,0 +1,12 @@
+
+/*function myFunction(){
+    alert("Hello CSMJU");
+
+    console.log("Hello Monday");
+
+    console.log(document.getElementById("header1").innerText);
+
+    document.getElementById("header1").innerHTML = "Change.....";
+
+
+}*/
